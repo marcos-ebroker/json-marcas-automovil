@@ -1,0 +1,52 @@
+{
+    "marcas": [
+        {
+            "id": 1,
+            "marca": "SEAT"
+        },
+        {
+            "id": 2,
+            "marca": "Opel"
+        },
+        {
+            "id": 3,
+            "marca": "Hyundai"
+        },
+        {
+            "id": 4,
+            "marca": "KIA"
+        },
+        {
+            "id": 5,
+            "marca": "Toyota"
+        },
+        {
+            "id": 6,
+            "marca": "Volkswagen"
+        },
+        {
+            "id": 7,
+            "marca": "Ford"
+        },
+        {
+            "id": 8,
+            "marca": "Ferrari"
+        },
+        {
+            "id": 9,
+            "marca": "FIAT"
+        },
+        {
+            "id": 10,
+            "marca": "Renaull"
+        },
+        {
+            "id": 11,
+            "marca": "Skoda"
+        },
+        {
+            "id": 12,
+            "marca": "Dacia"
+        }
+    ]
+}
