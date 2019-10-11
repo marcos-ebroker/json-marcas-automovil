@@ -53,7 +53,7 @@
         {
             "id": 11,
             "marca": "Skoda",
-            "query_logo": "skoda-auto.com"
+            "query_logo": "skoda.es"
         },
         {
             "id": 12,
@@ -63,7 +63,7 @@
         {
             "id": 13,
             "marca": "Nissan",
-            "query_logo": "nissanusa.com"
+            "query_logo": "nissan.it"
         }
     ]
 }
