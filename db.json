@@ -2,55 +2,68 @@
     "marcas": [
         {
             "id": 1,
-            "marca": "SEAT"
+            "marca": "SEAT",
+            "query_logo": "seat.es"
         },
         {
             "id": 2,
-            "marca": "Opel"
+            "marca": "Opel",
+            "query_logo": "opel.de"
         },
         {
             "id": 3,
-            "marca": "Hyundai"
+            "marca": "Hyundai",
+            "query_logo": "hyundaiusa.com"
         },
         {
             "id": 4,
-            "marca": "KIA"
+            "marca": "KIA",
+            "query_logo": "kia.com"
         },
         {
             "id": 5,
-            "marca": "Toyota"
+            "marca": "Toyota",
+            "query_logo": "toyota.com"
         },
         {
             "id": 6,
-            "marca": "Volkswagen"
+            "marca": "Volkswagen",
+            "query_logo": "vw.com"
         },
         {
             "id": 7,
-            "marca": "Ford"
+            "marca": "Ford",
+            "query_logo": "ford.com"
         },
         {
             "id": 8,
-            "marca": "Ferrari"
+            "marca": "Ferrari",
+            "query_logo": "ferrari.com"
         },
         {
             "id": 9,
-            "marca": "FIAT"
+            "marca": "FIAT",
+            "query_logo": "fiat.com"
         },
         {
             "id": 10,
-            "marca": "Renault"
+            "marca": "Renault",
+            "query_logo": "renault.com"
         },
         {
             "id": 11,
-            "marca": "Skoda"
+            "marca": "Skoda",
+            "query_logo": "skoda-auto.com"
         },
         {
             "id": 12,
-            "marca": "Dacia"
+            "marca": "Dacia",
+            "query_logo": "dacia.es"
         },
         {
             "id": 13,
-            "marca": "Nissan"
+            "marca": "Nissan",
+            "query_logo": "nissanusa.com"
         }
     ]
 }
