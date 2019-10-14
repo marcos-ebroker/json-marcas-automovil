@@ -1,5 +1,5 @@
 {
-    "marcas": [
+    "marcas_automovil": [
         {
             "id": 1,
             "marca": "SEAT",
@@ -64,6 +64,64 @@
             "id": 13,
             "marca": "Nissan",
             "query_logo": "nissan.it"
+        }
+    ],
+
+    "aseguradoras": [
+        {
+            "id": 1,
+            "nombre": "Caser Seguros",
+            "dgs": "c0031"
+        },
+        {
+            "id": 2,
+            "nombre": "Mapfre",
+            "dgs": "c0058"
+        },
+        {
+            "id": 3,
+            "nombre": "Generali",
+            "dgs": "c0072"
+        },
+        {
+            "id": 4,
+            "nombre": "Allianz",
+            "dgs": "c0109"
+        },
+        {
+            "id": 5,
+            "nombre": "Liberty Seguros",
+            "dgs": "c0467"
+        },
+        {
+            "id": 6,
+            "nombre": "Plus Ultra Seguros",
+            "dgs": "c0517"
+        },
+        {
+            "id": 7,
+            "nombre": "Reale Seguros",
+            "dgs": "c0613"
+        },
+        {
+            "id": 8,
+            "nombre": "Axa Seguros",
+            "dgs": "c0723"
+        },
+        {
+            "id": 9,
+            "nombre": "Zurich",
+            "dgs": "e0189"
+        },
+        {
+            "id": 10,
+            "nombre": "Pelayo Seguros",
+            "dgs": "m0050"
+        },
+        {
+            "id": 11,
+            "nombre": "Surne",
+            "dgs": "m0378"
         }
     ]
 }
