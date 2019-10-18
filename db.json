@@ -69,6 +69,11 @@
             "id": 14,
             "marca": "AUDI",
             "query_logo": "audi.de"
+        },
+        {
+            "id": 15,
+            "marca": "Citroën",
+            "query_logo": "citroen.com"
         }
     ],
 
