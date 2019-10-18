@@ -67,7 +67,7 @@
         },
         {
             "id": 14,
-            "marca" "AUDI",
+            "marca": "AUDI",
             "query_logo": "audi.de"
         }
     ],
