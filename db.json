@@ -74,6 +74,11 @@
             "id": 15,
             "marca": "Citroën",
             "query_logo": "citroen.com"
+        },
+        {
+            "id": 16,
+            "marca" "BMW",
+            "query_logo": "bmwusa.com"
         }
     ],
 
